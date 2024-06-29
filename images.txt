@@ -1,2 +1,1 @@
-xprobe/xinference:v0.12.3
-pytorch/pytorch:2.1.2-cuda12.1-cudnn8-devel
+ollama/ollama:0.1.48
